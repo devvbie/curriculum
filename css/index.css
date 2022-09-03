@@ -36,6 +36,10 @@ a{
     padding: 10px;
 }
 
+a:hover{
+    background-color: #000;
+}
+
 #button6{
     background-color: #D4C1C1;
     line-height: 10px;
@@ -45,9 +49,6 @@ a{
     margin-right: 0;
 }
 
-a:hover{
-    background-color: #000;
-}
 
 #button6:hover{
     background-color: #000;
